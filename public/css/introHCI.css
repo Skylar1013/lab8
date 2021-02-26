@@ -11,6 +11,7 @@
 
 html, body, .container {
     height: 100%;
+    max-width: 500px;
 }
 
 .jumbotron {
